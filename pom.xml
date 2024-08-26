@@ -219,7 +219,7 @@
         <!--  CustomBlockData       -->
         <dependency>
             <groupId>com.jeff-media</groupId>
-            <artifactId>Custom-Block-Data</artifactId>
+            <artifactId>custom-block-data</artifactId>
             <version>2.2.2</version>
             <scope>compile</scope>
         </dependency>
