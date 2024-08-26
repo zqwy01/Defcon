@@ -11,7 +11,7 @@
 
     <name>Defcon</name>
 
-    <description>A plugin that adds nuclear energy, along with his advantages and dangers</description>
+    <description>A plugin that adds nuclear energy, along with his advantages and dangers!</description>
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
