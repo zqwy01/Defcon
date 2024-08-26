@@ -15,10 +15,10 @@
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin.version>1.9.22</kotlin.version>
+        <kotlin.version>2.0.20</kotlin.version>
         <kotlin.jvm.target>17</kotlin.jvm.target>
-        <kotlin.language.version>1.9</kotlin.language.version>
-        <kotlin.api.version>1.9</kotlin.api.version>
+        <kotlin.language.version>2.0</kotlin.language.version>
+        <kotlin.api.version>2.0</kotlin.api.version>
         <project.scm.id>github</project.scm.id>
     </properties>
     <url>http://rynotechblog.altervista.org/</url>
