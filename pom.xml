@@ -53,7 +53,7 @@
                             <shadedPattern>com.mochibit.defcon.api.paperlib</shadedPattern>
                         </relocation>
                         <relocation>
-                            <pattern>com.jeff-media.customblockdata</pattern>
+                            <pattern>com.jeff-media.custom-block-data</pattern>
                             <shadedPattern>com.mochibit.defcon.api.customblockdata</shadedPattern>
                         </relocation>
                     </relocations>
@@ -219,7 +219,7 @@
         <!--  CustomBlockData       -->
         <dependency>
             <groupId>com.jeff-media</groupId>
-            <artifactId>CustomBlockData</artifactId>
+            <artifactId>Custom-Block-Data</artifactId>
             <version>2.2.2</version>
             <scope>compile</scope>
         </dependency>
